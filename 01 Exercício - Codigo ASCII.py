@@ -27,5 +27,5 @@ No primeiro exemplo, o código ASCII do caracter "g" é 103.
 No segundo exemplo, o código ASCII do caracter "G" é 103.'''
 
 
-letra = str(input())
-print(ord(letra))
+#letra = str(input())
+#print(ord(letra))
